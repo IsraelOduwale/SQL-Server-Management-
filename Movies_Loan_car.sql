@@ -1,5 +1,5 @@
 use SQLTraining
-
+--making update
 --ASSIGNMENT 1
 create table Movies(
 [No] int identity (1,1),
