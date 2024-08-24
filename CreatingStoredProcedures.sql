@@ -1,3 +1,12 @@
+-- =============================================
+-- Author:		Israel Oduwale
+-- Create date: 08-06-2024
+-- Description:	This code is to create and Execute Stored Procedures.
+-- Revise Date: 08-24-2024 
+-- Version:		v1.0
+-- =============================================
+
+
 use SQLTraining
 
 --STored Procedure using World table
