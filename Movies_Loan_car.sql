@@ -1,3 +1,15 @@
+-- =============================================
+-- Author:		Israel Oduwale
+-- Create date: 08-1-2024
+-- Description:	This code is to create the Movies, Loan, Cars and CarCustomer Tables and insert data.
+--				Join car and CarCustomer tables and then run analysis with them.
+--				Do more analysis on the tables.
+-- Revise Date: 08-24-2024 
+-- Version:		v1.0
+-- =============================================
+
+
+
 use SQLTraining
 --making update
 --ASSIGNMENT 1
