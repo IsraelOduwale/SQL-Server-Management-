@@ -1,3 +1,12 @@
+-- =============================================
+-- Author:		Israel Oduwale
+-- Create date: 03-14-2024
+-- Description:	This code is to create database, use database and create tables,
+--				To run other analysis on the tables
+-- Revise Date: 08-24-2024 
+-- Version:		v1.0
+-- =============================================
+
 create database hospital
 go
 
