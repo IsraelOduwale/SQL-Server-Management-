@@ -49,3 +49,13 @@ select * from Business
 end
 
 exec spBusiness
+
+
+--STored Procedure using Noble table
+Create procedure spNoble
+as 
+begin 
+select * from Noble
+end
+
+exec spNoble
