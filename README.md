@@ -10,6 +10,9 @@ CREATING TEMP AND GLOBAL TABLES AS WELL AS CTEs
 
 
 Hospital Analysis Project Uploaded 10-11-24
+
 Emade Consulting projects Uploaded 10-11-24
+
 BestBuy Project Uploaded 10-11-24
+
 Several data migration and metrics Uploaded 10-11-24
