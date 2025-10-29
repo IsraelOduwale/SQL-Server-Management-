@@ -22,3 +22,5 @@ California HealthCare Facilities Uploaded 11-07-24
 Emade_dev World university sql query 01-18-2025
 
 Emade Brands sql query 07-02-25
+
+Emade Sales, HealthInsurance, Subscription and Plans Sql query 10/29/2025
