@@ -29,3 +29,7 @@ Emade Artists and Songs sql query 11-19-25
 Emade Stolen Vehicles Sql query 11/10/2025
 
 Emade Stolen Vehicles Teams Sql query 11/26/2025
+
+Emade Business Sql Query 12/01/2025
+Emade Movies Sql Query 12/01/2025
+EmpWorkInfo Sql Query 12/01/2025
