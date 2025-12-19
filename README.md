@@ -33,5 +33,9 @@ Emade Stolen Vehicles Teams Sql query 11/26/2025
 Emade Business Sql Query 12/01/2025
 
 NetflixBusiness Sql Query 12/12/2025
+
 Emade Movies Sql Query 12/01/2025
+
 EmpWorkInfo Sql Query 12/01/2025
+
+EDI Encounter Sql Query 12/18/2025
